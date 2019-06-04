@@ -1,0 +1,62 @@
+.myCourses .container h3 {
+	border-bottom: 1px solid black;
+}
+
+.myCourses .container img {
+	height: 130px;
+	width: 200px;
+}
+
+.myCourses .container .myCoursesLayout {
+	height: 150px;
+	width: 500px;
+	background-color: #505763;
+	margin: 30px 10px;
+	padding: 10px;
+	float: left;
+}
+
+.play {
+	height: 50px !important;
+	width: 50px !important;
+	position: relative;
+	right: 130px;
+}
+
+h5 {
+	width: 250px;
+	float: right;
+	position: relative;
+	top: -130px;
+	font-size: 18px;
+	color: white;
+}
+
+.progress {
+	height: 8px;
+	position: relative;
+	top: -50px;
+	left: 225px;
+	background-color: #686F7A;
+}
+
+.progress-bar {
+	background-color: white;
+}
+
+button {
+	position: relative;
+	top: -35px;
+	left: 225px;
+	height: 25px;
+}
+
+button span {
+	font-size: 12px;
+	position: relative;
+	top: -10px;
+}
+
+footer {
+	margin-top: 21% !important;
+}

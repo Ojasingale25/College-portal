@@ -1,0 +1,18 @@
+.subContainer2 {
+	height: 300px;
+	width: 100%;
+	float: left;
+	margin: 100px 20px 0px 0px;
+}
+
+.progress {
+	width: 300px;
+	height: 10px;
+	margin-top: 5px;
+}
+
+table {
+	text-align: left;
+	width: 850px !important;
+	margin: 0px 100px;
+}
